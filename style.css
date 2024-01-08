@@ -640,11 +640,13 @@ html , body{
     border: 1px solid rgb(0, 0, 0);
 }
 .trophy>h1{
+    width: 100%;
+    line-height: 420px;
     text-transform:uppercase;
-    font-family:canope;
-    font-size: 400px;
-    font-weight: 450;
-    letter-spacing: -5px;
+    font-family:canopee;
+    font-size: 420px;
+    font-weight: 550;
+    letter-spacing: -8px;
     color: #1C1B19;
 }
 .artisan{
